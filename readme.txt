@@ -1,0 +1,6 @@
+文件说明：
+1、Call.h和Call.cpp文件是电话信息类定义及实现
+2、employees.h和employees.cpp文件是雇员抽象类定义及实现
+3、fresher.h和fresher.cpp文件是普通员工类定义及实现
+4、ProjectLeader.h和ProjectLeader.cpp文件是组长类定义及实现
+5、ProjectManager.h和ProjectManager.cpp文件是经理类定义及实现
